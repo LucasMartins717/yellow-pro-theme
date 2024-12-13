@@ -4,6 +4,10 @@
   "description": "Nice yellow theme!",
   "version": "0.0.1",
   "publisher": "Tiosan717",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasMartins717/yellow-pro-theme"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
