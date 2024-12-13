@@ -1,0 +1,22 @@
+{
+  "name": "yellow-pro",
+  "displayName": "Yellow Pro",
+  "description": "Nice yellow theme!",
+  "version": "0.0.1",
+  "publisher": "Tiosan717",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yellow Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yellow-pro-color-theme.json"
+      }
+    ]
+  }
+}
